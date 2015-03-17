@@ -1,5 +1,5 @@
-Intro to Scientific Python - LBL Lab Day 2014
-=============================================
+Intro to Scientific Python - SF Python Project Night 2015-03-18
+===============================================================
 
 Links
 -----
