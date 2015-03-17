@@ -72,7 +72,7 @@ different interfaces for matplotlib.
 - [Seaborn](http://web.stanford.edu/~mwaskom/software/seaborn/)
 - [Bokeh](http://bokeh.pydata.org/)
 - [ggplot](http://ggplot.yhathq.com/)
-- [brewer2mpl](https://github.com/jiffyclub/brewer2mpl/wiki)
+- [Palettable](https://jiffyclub.github.io/palettable/)
 
 ### Git
 
