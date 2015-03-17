@@ -1,6 +1,22 @@
 Intro to Scientific Python - SF Python Project Night 2015-03-18
 ===============================================================
 
+Outline
+-------
+
+- Intro to Python for Scientists
+    - standard library: argparse, datetime, os, shutil, glob, math, regex
+    - numpy
+    - matplotlib
+- Advanced Python for Scientists
+    - scipy
+    - pandas
+    - Azalee’s most used advanced matplotlib
+- Tools to help you build better code
+    - ipython notebook
+    - git / github
+    - python debugger (pdb)
+
 Links
 -----
 
